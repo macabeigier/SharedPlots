@@ -6,5 +6,7 @@ Because of my backgroud for this project I decided to work with a dataset of the
 
 I used Kmeans algorithm to obtain cluster of countries over the years.
 
+Here are the links to the graphics:
 
+https://macabeigier.github.io/SharedPlots/kmeans_all_maps_slider.html
 
