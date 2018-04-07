@@ -24,4 +24,5 @@ https://macabeigier.github.io/SharedPlots/kmeans_health_maps_slider.html
 
 https://macabeigier.github.io/SharedPlots/kmeans_population_maps_slider.html
 
+https://macabeigier.github.io/SharedPlots/PCA_kmeans_all_maps_slider.html
 
