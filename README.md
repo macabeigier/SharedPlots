@@ -26,3 +26,8 @@ https://macabeigier.github.io/SharedPlots/kmeans_population_maps_slider.html
 
 https://macabeigier.github.io/SharedPlots/PCA_kmeans_all_maps_slider.html
 
+https://plot.ly/~mbeigier/99/
+
+https://plot.ly/~mbeigier/61/
+
+https://plot.ly/~mbeigier/57/
