@@ -16,6 +16,8 @@ https://macabeigier.github.io/SharedPlots/clusters_all_countries_years.html
 
 https://macabeigier.github.io/SharedPlots/kmeans_all_maps_slider.html
 
+https://macabeigier.github.io/SharedPlots/clusters_all_countries_years_Singapore.html
+
 https://macabeigier.github.io/SharedPlots/kmeans_infectious_diseases_maps_slider.html
 
 https://macabeigier.github.io/SharedPlots/kmeans_education_maps_slider.html
